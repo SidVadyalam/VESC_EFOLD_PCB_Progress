@@ -1,4 +1,5 @@
-Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Sheet1.SchDoc|FileName=Sheet2.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Sheet1.SchDoc|FileName=Sheet3.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Sheet1.SchDoc|FileName=Sheet4.SchDoc|SheetNumber=4
+Record=TopLevelDocument|FileName=CAN_BUS.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CAN_BUS.SchDoc|FileName=IMU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CAN_BUS.SchDoc|FileName=MCU.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CAN_BUS.SchDoc|FileName=RF_Module.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CAN_BUS.SchDoc|FileName=Sheet4.SchDoc|SheetNumber=4
